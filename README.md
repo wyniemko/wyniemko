@@ -1,1 +1,1 @@
-I analyze & optimize complex, global hardware supply chains
+I analyze and optimize complex, global hardware supply chains
